@@ -1,0 +1,39 @@
+<li class="banner banner2 sec2" id="callbacks1_s1 " >
+                    <div class="container">
+                        <div class="banner-text">
+                            <div class="slider-info">
+                                <h3>animals foundation</h3>
+                                <span class="line"></span>
+                                <p>We move the world to protect animals</p>
+                                <a class="btn bg-theme mt-4 w3_pvt-link-bnr scroll" data-blast="bgColor" href="#about" role="button">View
+                                    More</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="banner banner3 sec2" id="callbacks1_s2">
+                    <div class="container">
+                        <div class="banner-text">
+                            <div class="slider-info">
+                                <h3>discover creature</h3>
+                                <span class="line"></span>
+                                <p>We move the world to protect animals</p>
+                                <a class="btn bg-theme mt-4 w3_pvt-link-bnr scroll" data-blast="bgColor" href="#about" role="button">View
+                                    More</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                    
+            </ul>
+            <ul class="callbacks_tabs callbacks1_tabs">
+            <li class="callbacks1_s1 callbacks_here">
+            <a href="#" class="callbacks1_s0">1</a>
+            </li>
+            <li class="callbacks1_s2">
+            <a href="#" class="callbacks1_s1">2</a>
+            </li>
+            <li class="callbacks1_s3">
+            <a href="#" class="callbacks1_s2">3</a>
+            </li>
+            </ul>
